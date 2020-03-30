@@ -21,7 +21,7 @@ npm run lint
 ```
 
 ### Link to website
-covid19drc.uptodatedevelopers.com
+https://covid19drc.uptodatedevelopers.com/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
